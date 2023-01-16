@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/BurntSushi/toml v1.2.1
-	github.com/dustin/go-humanize v1.0.0
+	github.com/dustin/go-humanize v1.0.1
 	github.com/gobuffalo/envy v1.10.2
 	github.com/gobuffalo/events v1.4.3
 	github.com/gobuffalo/flect v0.3.0
