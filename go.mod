@@ -8,7 +8,7 @@ require (
 	github.com/gobuffalo/envy v1.10.2
 	github.com/gobuffalo/events v1.4.3
 	github.com/gobuffalo/flect v0.3.0
-	github.com/gobuffalo/github_flavored_markdown v1.1.3
+	github.com/gobuffalo/github_flavored_markdown v1.1.4
 	github.com/gobuffalo/grift v1.5.2
 	github.com/gobuffalo/helpers v0.6.7
 	github.com/gobuffalo/httptest v1.5.2
@@ -26,5 +26,5 @@ require (
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.1
-	golang.org/x/text v0.4.0
+	golang.org/x/text v0.7.0
 )
