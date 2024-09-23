@@ -7,7 +7,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/gobuffalo/envy v1.10.2
 	github.com/gobuffalo/events v1.4.3
-	github.com/gobuffalo/flect v0.3.0
+	github.com/gobuffalo/flect v1.0.3
 	github.com/gobuffalo/github_flavored_markdown v1.1.3
 	github.com/gobuffalo/grift v1.5.2
 	github.com/gobuffalo/helpers v0.6.7
